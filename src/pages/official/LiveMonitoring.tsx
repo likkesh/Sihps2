@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Video, Maximize, AlertCircle } from 'lucide-react';
 
 const mockStreams = [

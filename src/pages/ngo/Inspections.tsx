@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { FileCheck, Search, Eye } from 'lucide-react';
+import { useState } from 'react';
+import { FileCheck } from 'lucide-react';
 
 const mockInspections = [
   { id: 'INS-2026-089', date: '18 Sep 2026', type: 'Surprise', inspector: 'S. Mehta (DoSJE)', status: 'Completed', result: 'Satisfactory' },

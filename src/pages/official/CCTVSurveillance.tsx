@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Camera, Search, Filter, ShieldAlert } from 'lucide-react';
+import { useState } from 'react';
+import { Search, Filter, ShieldAlert } from 'lucide-react';
 
 const mockSystem = [
   { ngo: 'Sunrise Welfare', id: 'NGO-001', total: 6, online: 5, offline: 1, lastCheck: '2 mins ago' },

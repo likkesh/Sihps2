@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Search, Filter, Eye } from 'lucide-react';
+import { useState } from 'react';
+import { Search, Eye } from 'lucide-react';
 
 const mockBeneficiaries = [
   { id: 'BEN-001', name: 'Rahul D.', age: 12, category: 'Orphan', enrolled: '2025-01-15', attendance: '95%', status: 'Active' },

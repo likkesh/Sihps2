@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import { FileCheck, Search, Dices, Calendar } from 'lucide-react';
+import { Search, Dices, Calendar } from 'lucide-react';
 
 const mockIns = [
   { id: 'INS-2026-089', ngo: 'Sunrise Welfare', type: 'Surprise', inspector: 'S. Mehta', date: '18 Sep 2026', status: 'Completed', result: 'Satisfactory' },

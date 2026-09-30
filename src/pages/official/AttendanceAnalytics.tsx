@@ -1,4 +1,3 @@
-import React from 'react';
 import { Users, TrendingDown, TrendingUp, AlertTriangle } from 'lucide-react';
 
 export default function AttendanceAnalytics() {

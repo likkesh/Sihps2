@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Camera, AlertTriangle, Wifi, WifiOff } from 'lucide-react';
+import { useState } from 'react';
+import { Camera, AlertTriangle, WifiOff } from 'lucide-react';
 
 const cameras = [
   { id: 'CAM-01', location: 'Main Entrance', status: 'ONLINE', quality: 'Good', lastHeartbeat: 'Just now' },

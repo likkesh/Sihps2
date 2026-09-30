@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Calendar, Users, AlertCircle, Save } from 'lucide-react';
+import { useState } from 'react';
+import { AlertCircle, Save } from 'lucide-react';
 
 export default function Attendance() {
   const [attendance, setAttendance] = useState<Record<string, boolean>>({

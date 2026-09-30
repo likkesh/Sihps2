@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Building, MapPin, Users, Video, ShieldCheck, Edit } from 'lucide-react';
 
 export default function MyProject() {

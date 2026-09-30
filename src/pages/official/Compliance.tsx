@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { ShieldCheck, Search, Filter } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { Search, Filter } from 'lucide-react';
 
 export default function Compliance() {
   const [issues, setIssues] = useState<any[]>([]);
